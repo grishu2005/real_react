@@ -1,9 +1,9 @@
 {
   "name": "realestate",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
-  "homepage": "https://grishu2005.github.io/react-project",
+  "homepage": "https://grishu2005.github.io/real_react",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
