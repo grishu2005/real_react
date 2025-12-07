@@ -2,10 +2,10 @@ import React, { useState, useEffect } from "react";
 import "./Hero.css";
 
 const images = [
-  "/Beach.jpg",
-  "/Villa.jpg",
-  "/Villa2.jpg",
-  "/Island.jpg"
+  "/real_react/Beach.jpg",
+  "/real_react/Villa.jpg",
+  "/real_react/Villa2.jpg",
+  "/real_react/Island.jpg"
 ];
 
 const categories = ["New Listings", "Lifestyle", "Communities", "Private Islands"];
