@@ -6,7 +6,7 @@ const residences = [
     name: "Residence On Clifton Bay",
     price: "$43,5000,000",
     location: "Lyford Cay Estate",
-    image: "../../../public/R1.jpg",
+    image: "/real_react/R1.jpg",
     details: "5 Bed | 5 Bath | 11,079 Sqft",
   },
   {
